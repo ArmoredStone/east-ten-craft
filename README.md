@@ -1,5 +1,7 @@
 # My tests of PTB library examples
 
+Ran on Python 3.11.10
+
 ## Tested examples
 
 arbitrarycallbackdatabot
