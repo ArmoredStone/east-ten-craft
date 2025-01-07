@@ -1,3 +1,7 @@
+"""
+This is a simple timer bot that sends a message after a certain time.
+Uses JobQueue to schedule timed jobs after commands invoked.
+"""
 import os
 import logging
 
